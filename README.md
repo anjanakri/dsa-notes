@@ -19,6 +19,6 @@ This repo helps me:
 - Build a valuable reference for interviews
 
 <footer>
-    Tracking my Tech Journey at [X.com](https://x.com/anjana_kri)
+    Tracking my Tech Journey at [!X.com](https://x.com/anjana_kri)
     Feel free to connect.
 </footer>
