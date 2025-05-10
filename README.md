@@ -19,6 +19,10 @@ This repo helps me:
 - Build a valuable reference for interviews
 
 <footer>
-    Tracking my Tech Journey at [**X.com**](https://x.com/anjana_kri)
+   Tracking my Tech Journey at <a href="https://x.com/anjana_kri" target="_blank" style="text-decoration: none;">
+        <button style="padding: 10px 20px; background-color: #1DA1F2; color: white; border: none; border-radius: 5px; cursor: pointer;">
+          X.com
+        </button>
+      </a>
     Feel free to connect.
 </footer>
