@@ -21,7 +21,7 @@ This repo helps me:
 <footer>
    Tracking my Tech Journey at <a href="https://x.com/anjana_kri" target="_blank" style="text-decoration: none;">
         <button style="padding: 10px 20px; background-color: #1DA1F2; color: white; border: none; border-radius: 5px; cursor: pointer;">
-          X.com
+          Twitter
         </button>
       </a>
     Feel free to connect.
