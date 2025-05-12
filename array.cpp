@@ -65,7 +65,7 @@ void modify(){
         cin>> value;
         arr[i]=value;
     }else{
-        "Oh No! Entered element is not in the array!";
+        cout<<"Oh No! Entered element is not in the array!"<<endl;
     }
     }
     printArray();
